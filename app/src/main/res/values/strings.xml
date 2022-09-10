@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="get_started">Get Started</string>
+    <string name="welcome_to_the_quiz">Welcome to the Quiz</string>
+    <string name="quiz_logo">quiz_logo</string>
+    <string name="login_now">Login Now</string>
+    <string name="please_login_to_continue_using_app">Please login to continue using app</string>
+    <string name="don_t_have_an_account_signup">Don\'t have an account? SignUp</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_your_email_and_password_to_get_access_to_your_account">Enter your Email and password to get access to your account</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="score_board">Score Board</string>
+    <string name="home">Home</string>
+    <string name="science">Science</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="hello">Hello</string>
+    <string name="_00_25">00:25</string>
+    <string name="textview">TextView</string>
+    <string name="email">Email</string>
+</resources>
